@@ -1,5 +1,5 @@
 {
-  "name": "alpha/juuust-react-icon",
+  "name": "alpha-react-icon",
   "version": "0.0.4",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
